@@ -10,12 +10,12 @@ public class Ex01 {
 //		int _Person
 
 		boolean a = true;
-		String b =  "#_of_workers";
+		String b = "#_of_workers";
 		String c = "countOfLettersInString";
 		String d = "1stLevel1";
 		String e = "person#";
 		String f = "Person";
-		System.out.println(a+b+c+d+e+f);
-
+		System.out.println(a + b + c + d + e + f);
+		System.out.println("hi");
 	}
 }
