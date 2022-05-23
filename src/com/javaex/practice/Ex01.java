@@ -14,6 +14,7 @@ public class Ex01 {
 		String c = "countOfLettersInString";
 		String d = "1stLevel1";
 		String e = "person#";
+		
 		String f = "Person";
 		System.out.println(a + b + c + d + e + f);
 		System.out.println("hi");
